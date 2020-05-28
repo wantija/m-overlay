@@ -1,1 +1,1 @@
-sudo love "/run/media/jake/storage/Developer/Lua/M'Overlay/source"
+sudo love source
